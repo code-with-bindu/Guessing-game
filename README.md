@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Number Guessing Game
 
 A sleek and interactive number guessing game built with **React Native** and **Expo**. The app allows users to input a number between 1 and 99, and the computer attempts to guess it by suggesting numbers. Users provide hints ("Higher" or "Lower") to guide the computer until it guesses correctly. The app features a modern, professional UI with smooth gradients, intuitive controls, and responsive design.
@@ -95,3 +96,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Built with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/).
 - Inspired by simple number guessing games with a focus on modern UI design.
+=======
+# Guessing-game
+>>>>>>> b0c9ab1424f443b3a03637e45dd392eb302b8bc8
